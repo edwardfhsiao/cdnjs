@@ -22,7 +22,7 @@
   "author": "Edward Xiao",
   "license": "MIT",
   "homepage": "https://edwardfhsiao.github.io/react-inputs-validation/",
-  "npmName": "function-plot",
+  "npmName": "react-inputs-validation",
   "npmFileMap": [
     {
       "basePath": "lib",
