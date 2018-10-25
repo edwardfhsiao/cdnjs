@@ -22,9 +22,6 @@
   "author": "Edward Xiao",
   "license": "MIT",
   "homepage": "https://github.com/edwardfhsiao/react-inputs-validation#readme",
-  "dependencies": {
-    "classnames": "^2.2.5"
-  },
   "npmName": "function-plot",
   "npmFileMap": [
     {
